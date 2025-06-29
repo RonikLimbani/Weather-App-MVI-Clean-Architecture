@@ -1,4 +1,4 @@
-package com.ronik.weatherapp.ui.theme
+package com.ronik.weatherapp.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
